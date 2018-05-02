@@ -1,0 +1,7 @@
+Video:
+
+Part1: https://www.youtube.com/watch?v=PppMoZvW6L4&index=9&list=PLZ4EgN7ZCzJyUT-FmgHsW4e9BxfP-VMuo
+
+Mouse_Input_Structure:
+
+https://msdn.microsoft.com/en-us/library/windows/hardware/ff542403(v=vs.85).aspx?ranMID=24542&ranEAID=hL3Qp0zRBOc&ranSiteID=hL3Qp0zRBOc-DdWeXghtwX7u_bFloaN5MA&tduid=(867cb018ef3fcc100dd143adb847da79)(256380)(2459594)(hL3Qp0zRBOc-DdWeXghtwX7u_bFloaN5MA)()
