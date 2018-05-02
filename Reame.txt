@@ -1,6 +1,7 @@
 Video:
 
-Part1: https://www.youtube.com/watch?v=PppMoZvW6L4&index=9&list=PLZ4EgN7ZCzJyUT-FmgHsW4e9BxfP-VMuo
+Part1: https://www.youtube.com/watch?v=PppMoZvW6L4&list=PLZ4EgN7ZCzJyUT-FmgHsW4e9BxfP-VMuo
+Part2: https://www.youtube.com/watch?v=WH378dMPCeM&index=10&list=PLZ4EgN7ZCzJyUT-FmgHsW4e9BxfP-VMuo
 
 Mouse_Input_Structure:
 
